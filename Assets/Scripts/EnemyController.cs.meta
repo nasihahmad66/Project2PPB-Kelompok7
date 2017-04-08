@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e529793783f6b3043bc51e0546cfeecd
+timeCreated: 1490749745
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ScoreUITextGO: {fileID: 1880121912036092, guid: 803b996d82f6a9b4faff633f62fb2f63,
+      type: 2}
+  - explosionGO: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
